@@ -6,7 +6,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto foi criado durante meu período de estudos na plataforma Rocketseat, visando aprender mais afundo sobre Flexbox.
+Este projeto é um clone da plataforma X onde foi criado durante meu período de estudos na plataforma Rocketseat, visando aprender mais afundo sobre Flexbox.
 
 ##
 
